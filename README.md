@@ -83,6 +83,8 @@ If running in Codespaces, open the forwarded port shown by GitHub Codespaces.
 - openai_client.py handles OpenAI API calls
 
 ---
+## 📈 Example output
+![UI_output.png](/images/output.png)
 
 ## 📌 Portfolio Value
 
